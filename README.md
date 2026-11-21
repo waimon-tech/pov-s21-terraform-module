@@ -1,15 +1,11 @@
-###  Session 21  (Nov 15) : Terraform Modules deep dive
+##  Session 21  (Nov 15) : Terraform Modules deep dive
 
-This lab demonstrates deploying a multi-region microservices architecture using Terraform and AWS.
+This lab demonstrates that terraform modules are used to build and manage the multi-region AWS infrastructure.
 
 ### Architecture
 - **Singapore:** Customer Service
 - **Tokyo:** Account Service
 - **Seoul:** Statement Service
-
-## Terraform Modules
-
-The following Terraform modules are used to build and manage the multi-region AWS infrastructure.
 
 ### Infrastructure Modules
 | Infrastructure Layer | Terraform Module | Purpose |
