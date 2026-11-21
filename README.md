@@ -19,7 +19,6 @@ The following Terraform modules are used to build and manage the multi-region AW
 | Security | `terraform-aws-modules/security-group/aws` | Manages inbound and outbound security group rules |
 | Load Balancing | `terraform-aws-modules/alb/aws` | Creates Application Load Balancers, listeners, and target groups |
 | Compute | `terraform-aws-modules/ec2-instance/aws` | Deploys EC2 instances and configures Docker using User Data |
-groups |
 | Dns | `terraform-aws-modules/route53/aws` | Using route53 public hosted zone |
 
 ### Implementation
